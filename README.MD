@@ -97,11 +97,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, feedback, or project updates, please reach out via GitHub issues or contact the maintainer using the details below.
-
-## Maintainer
-
-Dev Bhatt maintains this project, drawing on more than six years of professional experience in data analytics, automation, and controls.
-
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
+For questions, feedback, or project updates, please reach out via GitHub issues.
